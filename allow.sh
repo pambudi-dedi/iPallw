@@ -1,4 +1,6 @@
 
+ipset add iix 139.99.90.221
+ipset add iix 51.79.164.186
 ipset add iix 51.79.194.97
 ipset add iix 47.241.77.2
 ipset add iix 34.101.164.180
